@@ -1,5 +1,5 @@
 # EX 1A Reverse a String
-## DATE:
+## DATE:26-04-2025
 ## AIM:
 To write a program to create a recursive function to reverse a string.
 
@@ -14,8 +14,8 @@ To write a program to create a recursive function to reverse a string.
 ```
 /*
 Program to implement Reverse a String
-Developed by: 
-Register Number:  
+Developed by: RAJAMANIKANDAN R
+Register Number:  212223220082
 */
 ```
 
